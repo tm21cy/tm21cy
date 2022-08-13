@@ -3,6 +3,8 @@ My name is Tyler, and I am a Software Engineering student from Ontario, Canada. 
 
 Time spent on the Bit rewrite - [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/82537711-79c6-4a11-94f1-cf5f24601ec9.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/82537711-79c6-4a11-94f1-cf5f24601ec9)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blizzard102&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **tm21cy/tm21cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
