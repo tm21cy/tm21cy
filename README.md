@@ -1,7 +1,7 @@
 ### Hello!
-My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid Discord.JS developer, a diligent student, and the right person you want on a team that's always innovating.
+My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
-Time spent on the Bit rewrite - [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/82537711-79c6-4a11-94f1-cf5f24601ec9.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/82537711-79c6-4a11-94f1-cf5f24601ec9)
+Current Project - Total Contribution Time: [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blizzard102&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
