@@ -6,7 +6,7 @@ My current production stack:<br><br>
 <img src="https://shields.io/badge/JavaScript-f7df1e?logo=Javascript&logoColor=000&style=flat-square">
 <img src="https://shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/Express-black?logo=express&logoColor=white&style=flat-square">
-
+<img src="https://shields.io/badge/Assembly-grey?logo=webassembly&logoColor=white&style=flat-square">
 
 Current Project (School Simplified HR Automations) - Total Contribution Time: [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e)
 
