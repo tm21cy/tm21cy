@@ -1,14 +1,14 @@
 ### Hello!
 My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
-Current development endeavors:<br>
-Senior VP of Human Resources / Incoming CIO @ School Simplified:
+Current development endeavors:<br><br>
+**Senior VP of Human Resources** / Incoming CIO @ School Simplified:
 > - Coordination of the Human Resources Department and any automation tech surrounding daily operational capacity.<br>
 > - Working with the Head of HR Information Systems as a direct report to implement new technology across the staff team.<br>
 > - Databasing, relating, and making accessible the files of over 500 staff members, using MySQL, TypeScript, Express, and the Discord.js package.<br>
 > - In the future, overseeing the operations of the Information Technology department, and collaborating on internal projects alongside 20+ department staff members.<br>
 
-Developer @ CHub:
+**Developer** @ CHub:
 > - Utilizing the Discord.js package and TruckersMP API to create a utility tool for Euro Truck Simulator 2 and American Truck Simulator.<br>
 > - Coordinating with other developers to implement resultant technologies on our dashboard, built with PHP.<br>
 > - Use of tools like Git to version control all deployed software.<br>
