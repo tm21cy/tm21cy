@@ -22,7 +22,7 @@ School Simplified HR Automations - Total Contribution Time: [![wakatime](https:/
 
 Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
-> Discord: Blizzy#8953<br><br>
+> Discord: Blizzy#8953<br>
 
 Currently listening to:<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blizzard102&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
