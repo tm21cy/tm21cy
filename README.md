@@ -24,4 +24,4 @@ Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
 > Discord: Blizzy#8953<br>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=413462464022446084)
+<iframe src="https://api.panleyent.com/webence/widget/large/?id=413462464022446084" width="600" height="564" frameborder="0">
