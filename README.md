@@ -18,7 +18,7 @@ Currently learning:<br>
 
 
 Current Project Contributions:<br>
-School Simplified HR Automations - Total Contribution Time: [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e) (TS/Express/MySQL)
+School Simplified HR Automations (TS/Express/MySQL/Node.js/Discord.js) - [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e)
 
 Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
