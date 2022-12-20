@@ -2,7 +2,7 @@
 My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
 My current production stack:
-<a href=https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square></a>
+<img src=https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square>
 
 Current Project (School Simplified HR Automations) - Total Contribution Time: [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e)
 
