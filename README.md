@@ -1,15 +1,15 @@
 ### Hello!
 My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
-My current production stack:<br><br>
+My current production stack:<br>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 <img src="https://shields.io/badge/JavaScript-f7df1e?logo=Javascript&logoColor=000&style=flat-square">
 <img src="https://shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/Express-black?logo=express&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/HTML-white?logo=html5&logoColor=orange&style=flat-square">
-<img src="https://shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat-square"><br><br>
+<img src="https://shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat-square"><br>
 
-Currently learning:
+Currently learning:<br>
 <img src="https://shields.io/badge/Assembly-grey?logo=webassembly&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/Rust-brown?logo=rust&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/C/C++-lightblue?logo=c&logoColor=black&style=flat-square">
