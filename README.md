@@ -36,4 +36,6 @@ Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
 > Discord: Blizzy#8953<br>
 
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tm21cy)](https://github.com/tm21cy/github-readme-stats)
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=413462464022446084)
