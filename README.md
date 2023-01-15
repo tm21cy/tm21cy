@@ -38,6 +38,6 @@ Contact Me:
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tm21cy)](https://github.com/tm21cy/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=tm21cy
+![Tyler's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tm21cy)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=413462464022446084)
