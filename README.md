@@ -3,7 +3,7 @@ My name is Tyler, and I am a Software Engineering student from Ontario, Canada. 
 
 Current development endeavors:<br><br>
 **Information Technology Intern** @ Sigma Chi International Fraternity:
-> - Serving as a 12-month intern for the Sigma Chi International Fraternity headquarters (department) shadowing senior professionals, leading high-impact projects, and contributing to the team’s growth; all while elevating my interpersonal and professional skills through personalized mentoring, project management and professional development.
+> - Serving as a 12-month intern for the Sigma Chi International Fraternity headquarters' IT Department, shadowing senior professionals, leading high-impact projects, and contributing to the team’s growth; all while elevating my interpersonal and professional skills through personalized mentoring, project management and professional development.
 
 **Senior VP of Human Resources** / Incoming CIO @ School Simplified:
 > - Coordination of the Human Resources Department and any automation tech surrounding daily operational capacity.<br>
