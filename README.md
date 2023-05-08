@@ -1,7 +1,12 @@
 ### Hello!
 My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
-Current development endeavors:<br><br>
+## Research Interests
+Over the next two years, under faculty supervision, I will be researching in two major areas:
+- **Winograd Schema Challenge** - studying the effects of anaphoric inference in large language models, including the employment of commonsense reasoning and natural language processing, and studying the history / solutions proposed to the WSC at large.
+- **AI/Healthcare Intersection** - innovating on front-line technologies by implementing AI who can efficiently reduce the human burdens of therapeutic and rehabilitation work without directly replacing humans; augmenting the work of humans through AI applications such as dialogue summary, compassion-sensitive models, and working toward Turing-complete therapeutic models.
+
+## Current development endeavors:<br><br>
 **Information Technology Intern** @ Sigma Chi International Fraternity:
 > - Serving as a 12-month intern for the Sigma Chi International Fraternity headquarters' IT Department, shadowing senior professionals, leading high-impact projects, and contributing to the team’s growth; all while elevating my interpersonal and professional skills through personalized mentoring, project management and professional development.
 
@@ -16,7 +21,7 @@ Current development endeavors:<br><br>
 > - Coordinating with other developers to implement resultant technologies on our dashboard, built with PHP.<br>
 > - Use of tools like Git to version control all deployed software.<br>
 
-My current production stack:<br>
+## My current production stack:<br>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 <img src="https://shields.io/badge/JavaScript-f7df1e?logo=Javascript&logoColor=000&style=flat-square">
 <img src="https://shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat-square">
@@ -24,18 +29,13 @@ My current production stack:<br>
 <img src="https://shields.io/badge/HTML-white?logo=html5&logoColor=orange&style=flat-square">
 <img src="https://shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat-square"><br>
 
-Currently learning:<br>
+## Currently learning:<br>
 <img src="https://shields.io/badge/Assembly-grey?logo=webassembly&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/Rust-brown?logo=rust&logoColor=white&style=flat-square">
 <img src="https://shields.io/badge/C/C++-lightblue?logo=c&logoColor=black&style=flat-square">
 <img src="https://shields.io/badge/Python-darkgreen?logo=python&logoColor=white&style=flat-square">
 
-
-
-Current Project Contributions:<br>
-School Simplified HR Automations (TS/Express/MySQL/Node.js/Discord.js) - [![wakatime](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e.svg)](https://wakatime.com/badge/user/e6ebf991-1e27-45c7-b9ca-a751fdf5ae15/project/a5714a41-c122-4c8d-8393-04f7bf3e318e)
-
-Contact Me:
+## Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
 > Discord: Blizzy#8953<br>
 
