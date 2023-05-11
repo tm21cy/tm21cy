@@ -3,7 +3,7 @@ My name is Tyler, and I am a Software Engineering student from Ontario, Canada. 
 
 ## Research Interests
 Over the next two years, under faculty supervision, I will be researching in two major areas:
-- **Winograd Schema Challenge** - studying the effects of anaphoric inference in large language models, including the employment of commonsense reasoning and natural language processing, and studying the history / solutions proposed to the WSC at large.
+- **Winograd Schema Challenge** - studying the effects of anaphoric inference & relative phrasing in large language models, including the employment of commonsense reasoning and natural language processing, and studying the history / solutions proposed to the WSC at large.
 - **AI/Healthcare Intersection** - innovating on front-line technologies by implementing AI who can efficiently reduce the human burdens of therapeutic and rehabilitation work without directly replacing humans; augmenting the work of humans through AI applications such as dialogue summary, compassion-sensitive models, and working toward Turing-complete therapeutic models.
 
 ## Current development endeavors:<br><br>
@@ -13,13 +13,8 @@ Over the next two years, under faculty supervision, I will be researching in two
 **Senior VP of Human Resources** / Incoming CIO @ School Simplified:
 > - Coordination of the Human Resources Department and any automation tech surrounding daily operational capacity.<br>
 > - Working with the Head of HR Information Systems as a direct report to implement new technology across the staff team.<br>
-> - Databasing, relating, and making accessible the files of over 500 staff members, using MySQL, TypeScript, Express, and the Discord.js package.<br>
+> - Databasing, relating, and making accessible the files of over 500 staff members, using MySQL, Azure, TypeScript, and Express.<br>
 > - In the future, overseeing the operations of the Information Technology department, and collaborating on internal projects alongside 20+ department staff members.<br>
-
-**Developer** @ CHub:
-> - Utilizing the Discord.js package and TruckersMP API to create a utility tool for Euro Truck Simulator 2 and American Truck Simulator.<br>
-> - Coordinating with other developers to implement resultant technologies on our dashboard, built with PHP.<br>
-> - Use of tools like Git to version control all deployed software.<br>
 
 ## My current production stack:<br>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
@@ -37,10 +32,7 @@ Over the next two years, under faculty supervision, I will be researching in two
 
 ## Contact Me:
 > Email: tm21cy@outlook.com (personal) / tm21cy@brocku.ca (business)<br>
-> Discord: Blizzy#8953<br>
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tm21cy)](https://github.com/tm21cy/github-readme-stats)
 
 ![Tyler's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tm21cy)
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=413462464022446084)
