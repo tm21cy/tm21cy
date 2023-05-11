@@ -1,5 +1,5 @@
 ### Hello!
-My name is Tyler, and I am a Software Engineering student from Ontario, Canada. I am an avid JS, TS, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
+My name is Tyler, and I am a 3rd year Computer Science student from Ontario, Canada. I am currently endeavoring toward my Honours Bachelor of Science, with a double specialization in software engineering and intelligent systems, while simultaneously preparing myself for a graduate degree in artifical intelligence and natural language processing. I am an avid JavaScript, TypeScript, Java, and SQL developer, a diligent student, and the right person you want on a team that's always innovating.
 
 ## Research Interests
 Over the next two years, under faculty supervision, I will be researching in two major areas:
