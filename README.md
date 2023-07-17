@@ -8,16 +8,6 @@ Over the next two years, under faculty supervision, I will be researching in two
 - **Arithmetic Reasoning** - employing prior innovations (chain of thought, self-consistency, tree of thought) to create modular systems of specialized thought that rely on symbolic reasoning embedded in arithmetic operations; endeavoring towards the creation of a reasoning model and dataset that shows statistically significant performance gains over typical "two-dimensional" reasoning methods.
 - **AI/Healthcare Intersection** - innovating on front-line technologies by implementing AI who can efficiently reduce the human burdens of therapeutic and rehabilitation work without directly replacing humans; augmenting the work of humans through AI applications such as dialogue summary, compassion-sensitive models, and working toward Turing-complete therapeutic models.
 
-## Current development endeavors:<br><br>
-**Information Technology Intern** @ Sigma Chi International Fraternity:
-> - Serving as a 12-month intern for the Sigma Chi International Fraternity headquarters' IT Department, shadowing senior professionals, leading high-impact projects, and contributing to the team’s growth; all while elevating my interpersonal and professional skills through personalized mentoring, project management and professional development.
-
-**Senior VP of Human Resources** / Incoming CIO @ School Simplified:
-> - Coordination of the Human Resources Department and any automation tech surrounding daily operational capacity.<br>
-> - Working with the Head of HR Information Systems as a direct report to implement new technology across the staff team.<br>
-> - Databasing, relating, and making accessible the files of over 500 staff members, using MySQL, Azure, TypeScript, and Express.<br>
-> - In the future, overseeing the operations of the Information Technology department, and collaborating on internal projects alongside 20+ department staff members.<br>
-
 ## My current production stack:<br>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 <img src="https://shields.io/badge/JavaScript-f7df1e?logo=Javascript&logoColor=000&style=flat-square">
